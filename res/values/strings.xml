@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LampsDroid</string>
+    <string name="state">state_</string>
+</resources>
